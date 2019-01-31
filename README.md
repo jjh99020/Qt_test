@@ -1,5 +1,12 @@
 # qt_test
 
+남의 프로젝트 가져오기 
+--
+1. 경로 폴더 우클릭 git bash 
+2. Git init
+3. Git remote add origin https://github.com/3delight00/qt_test.git
+4. Git pull origin master
+
 Git GUI
 ----
 1. 추가하려는 폴더 우클릭 git bash 
