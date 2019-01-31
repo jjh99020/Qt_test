@@ -4,14 +4,14 @@
 --
 1. 경로 폴더 우클릭 git bash 
 2. Git init
-3. Git remote add origin https://github.com/3delight00/qt_test.git
+3. Git remote add origin (클론할 주소)
 4. Git pull origin master
 
 Git GUI
 ----
 1. 추가하려는 폴더 우클릭 git bash 
 2. Git init
-3. Git remote add origin https://github.com/3delight00/qt_test.git
+3. Git remote add origin (클론할 주소)
 4. Git status // 상태확인
 5. Git add . // 변경된 파일 확인
 6. Git commit -m "massage"
